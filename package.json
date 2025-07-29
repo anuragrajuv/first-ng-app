@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --base-href \"https://anuragrajuv.github.io/firstAngularApp/\" && npx angular-cli-ghpages --dir=dist/first-ng-app"
+    "deploy": "ng build --base-href \"https://anuragrajuv.github.io/first-ng-app/\" && npx angular-cli-ghpages --dir=dist/first-ng-app"
   },
   "private": true,
   "dependencies": {
